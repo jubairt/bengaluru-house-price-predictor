@@ -4,6 +4,13 @@ This project predicts house prices in Bengaluru using Linear Regression and othe
 
 ---
 
+## 💻 Web App Preview
+
+Here’s a screenshot of the house price prediction web interface:
+
+![Web App Screenshot](WebApp_Screenshot.png)
+
+
 ## 📌 Objective
 
 Predict housing prices (in Lakhs INR) based on features like:
