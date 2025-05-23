@@ -103,23 +103,6 @@ Predict housing prices (in Lakhs INR) based on features like:
 
 ---
 
-## 📁 Project Structure
-
-```
-├── data/
-│   └── Bengaluru_House_Data.csv
-├── model/
-│   ├── model.pkl
-│   └── columns.json
-├── app.py
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
-```
-
----
-
 ## 🛠 Technologies Used
 
 - Python  
